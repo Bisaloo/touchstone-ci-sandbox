@@ -1,0 +1,6 @@
+{
+    "os": "ubuntu-24.04",
+    "r": "release",
+    "rspm": "https://packagemanager.posit.co/cran/__linux__/noble/latest",
+    "touchstone_ref": "@b399df520880601d273ed21ee7bad65820ef6d2e"
+}

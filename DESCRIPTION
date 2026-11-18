@@ -1,0 +1,9 @@
+Package: tsandbox
+Title: Test Package for the touchstone Workflows
+Version: 0.0.1
+Description: Minimal package used to exercise the touchstone benchmark
+    workflows in a test repository.
+Author: CuiweiG
+Maintainer: CuiweiG <199837382+CuiweiG@users.noreply.github.com>
+License: CC0
+Encoding: UTF-8
