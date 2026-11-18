@@ -21,6 +21,6 @@ jobs:
     if: >
       ${{ github.event.workflow_run.event == 'pull_request' }}
     steps:
-      - uses: lorenzwalthert/touchstone/actions/comment@b399df520880601d273ed21ee7bad65820ef6d2e
+      - uses: CuiweiG/touchstone-ci-sandbox/actions/comment@main
         with: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
